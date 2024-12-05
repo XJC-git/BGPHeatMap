@@ -1,6 +1,6 @@
 # BGP Heatmap of US
 
-![image-20241202211134030](C:\Users\97903\AppData\Roaming\Typora\typora-user-images\image-20241202211134030.png)
+![image-20241202211134030](images/heatmap.png)
 
 #### **Legend Explanation**
 
